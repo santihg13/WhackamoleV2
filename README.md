@@ -1,4 +1,4 @@
 # WhackamoleV2
 
 -- Santiago Hernández 180151 
--- No tiene tópicos; solo 3 conexiones concurrentes 
+-- No funcionan los tópicos porque no pude establecer conexión a ActiveMQ
